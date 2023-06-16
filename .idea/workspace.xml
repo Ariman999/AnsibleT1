@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1af6d7f4-e69c-48a7-8c39-acc3a06efd63" name="Changes" comment="task for ansible">
+      <change afterPath="$PROJECT_DIR$/.ansible/.idea/.ansible.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/galaxy_token" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/.ansible-lint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/.github/FUNDING.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/.github/stale.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/.github/workflows/ci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/.github/workflows/release.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/.yamllint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/defaults/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/handlers/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/meta/.galaxy_install_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/meta/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/molecule/default/converge.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/molecule/default/molecule.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/tasks/configure.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/tasks/databases.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/tasks/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/tasks/replication.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/tasks/secure-installation.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/tasks/setup-Archlinux.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/tasks/setup-Debian.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/tasks/setup-RedHat.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/tasks/users.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/tasks/variables.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/templates/my.cnf.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/templates/root-my.cnf.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/templates/user-my.cnf.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/vars/Archlinux.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/vars/Debian-10.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/vars/Debian-11.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/vars/Debian.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/vars/RedHat-7.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/vars/RedHat-8.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.mysql/vars/RedHat-9.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/.ansible-lint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/.github/FUNDING.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/.github/stale.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/.github/workflows/ci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/.github/workflows/release.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/.yamllint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/defaults/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/handlers/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/meta/.galaxy_install_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/meta/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/molecule/default/converge.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/molecule/default/molecule.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/tasks/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/tasks/setup-Archlinux.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/tasks/setup-Debian.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/tasks/setup-FreeBSD.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/tasks/setup-OpenBSD.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/tasks/setup-RedHat.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/tasks/setup-Ubuntu.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/tasks/vhosts.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/templates/nginx.conf.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/templates/nginx.repo.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/templates/vhost.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/vars/AlmaLinux.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/vars/Archlinux.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/vars/Debian.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/vars/FreeBSD.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/vars/OpenBSD.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/vars/RedHat.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.nginx/vars/Rocky.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/.ansible-lint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/.github/FUNDING.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/.github/stale.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/.github/workflows/ci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/.github/workflows/release.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/.yamllint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/defaults/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/handlers/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/meta/.galaxy_install_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/meta/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/molecule/default/converge.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/molecule/default/molecule.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/molecule/default/requirements.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/molecule/default/source-install.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/tasks/configure-apcu.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/tasks/configure-fpm.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/tasks/configure-opcache.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/tasks/configure.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/tasks/install-from-source.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/tasks/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/tasks/setup-Debian.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/tasks/setup-RedHat.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/templates/apc.ini.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/templates/fpm-init.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/templates/opcache.ini.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/templates/php-fpm.conf.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/templates/php.ini.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/templates/www.conf.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/vars/Debian-10.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/vars/Debian-11.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/vars/Debian-12.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/vars/Debian.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/vars/RedHat.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/vars/Ubuntu-18.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/vars/Ubuntu-20.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/geerlingguy.php/vars/Ubuntu-22.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/wordpress/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/wordpress/defaults/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/wordpress/handlers/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/wordpress/meta/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/wordpress/tasks/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/wordpress/templates/wp-config.php.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/wordpress/tests/inventory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/wordpress/tests/test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/wordpress/vars/wordpress.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ansible/roles/wordpress/wp-config.php.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnsibleT1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RHMJM6HPDj479BstEgCmOD0baM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="AnsibleT1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="AnsibleT1" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1af6d7f4-e69c-48a7-8c39-acc3a06efd63" name="Changes" comment="" />
+      <created>1686902482421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686902482421</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="task for ansible" />
+    <option name="LAST_COMMIT_MESSAGE" value="task for ansible" />
+  </component>
+</project>
